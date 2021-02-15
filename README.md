@@ -9,3 +9,6 @@ Welcome to my profile
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaGupta345&show_icons=true&theme=graywhite)
 
 <h1 align='center'><i>About me ✍️</i></h1>
+<p>student</p>\
+<p>Learning python </p>
+<p>Indian</o>
