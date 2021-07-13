@@ -33,6 +33,6 @@ I am a 13yo boy Learning coding and Generally people know me as Nethical
 - Sketchware
 - Firebase 
 ------------
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaGupta345&show_icons=true&hide_border=true&theme=dark)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGupta345&layout=compact&hide_border=true&theme=dark"></img>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealNethical&show_icons=true&hide_border=true&theme=dark)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealNethical&layout=compact&hide_border=true&theme=dark"></img>
 --------------
