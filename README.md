@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realnethical" alt="realnethical" /></a> </p>
 
-- 🔭 I’m currently working on creating [Telegram Bots](https://core.telegram.org/bots/api)
+- 🔭 I’m currently working on creating [Telegram Bot Designer](https://github.com/RealNethical/Telegram-Bot-Designer)
 
 - 🌱 I’m currently learning **Java**
 
