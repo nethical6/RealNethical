@@ -24,24 +24,20 @@
 <br>
 
 
-**<p align="center">A 14yo , passionate Mobile developer with knowledge about Java , Python , Android Development. Loves Linux and open source softwares</p>**
+**<p align="center">A nub, Native Android Developer</p>**
 <br>
-
-<h3 align="center">Projects</h1>
-<a href="https://github.com/RealNethical/Telegram-Bot-Designer">
-<img src="https://raw.githubusercontent.com/AdityaGupta345/AdityaGupta345/main/IMG_20211026_115850.jpg" alt="Twitter" /></a>
 
 
 <br>
 <h3 align="center">About me</h1>
 
-**<p align="center">I am a 14yo enthusiastic boy intrested in tech and programming</p>**
+**<p align="center">Nothings Special About me</p>**
 
 <h1 align='center'> <IMG SRC="https://raw.githubusercontent.com/AdityaGupta345/AdityaGupta345/main/Dino_non-birthday_version.gif"></h1>
 
- - 🏗️ I’m currently working on **Vite Chatting App**
+ - 🏗️ I’m currently working on **Blokey**
 
- - 📔 I’m currently learning **Bash Scripting**
+ - 📔 I’m currently learning to **Live**
 
  - 👨‍🏫 I need a mentor
 
