@@ -16,7 +16,7 @@
 <a href="https://dev.to/nethical">
 <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=Dev.to&logoColor=white" alt="Devto" /></a>
 
-<a href="https://youtube.com/c/NethicalVoder">
+<a href="https://youtube.com/c/Nethical">
 <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white" alt="Youtube" /></a>
 
 </p>
@@ -35,7 +35,7 @@
 
 <h1 align='center'> <IMG SRC="https://raw.githubusercontent.com/AdityaGupta345/AdityaGupta345/main/Dino_non-birthday_version.gif"></h1>
 
- - 🏗️ I’m currently working on **Blokey**
+ - 🏗️ I’m currently working on **x**
 
  - 📔 I’m currently learning to **Live**
 
